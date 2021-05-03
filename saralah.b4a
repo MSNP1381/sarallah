@@ -1,0 +1,352 @@
+﻿Build1=Default,ir.cyber.saralahzn
+File1=002.jpg
+File10=black-back.png
+File100=temp.png
+File101=top_middle.png
+File102=update.png
+File103=vid_v_ulv.bal
+File104=video_play1.bal
+File105=voice.png
+File106=yaran.png
+File107=zang.bal
+File108=zang.png
+File109=zang-cover.png
+File11=blur_lay.bal
+File12=books.png
+File13=card_view_lay.bal
+File14=clip.png
+File15=core.png
+File16=divider_horizontal_bright_opaque.9.png
+File17=download_panel.bal
+File18=download-btn.png
+File19=download-btn-hover.png
+File2=1 (12).JPG
+File20=edited.png
+File21=filters.ttf
+File22=flesh.png
+File23=fontawesome.ttf
+File24=gandom.ttf
+File25=google material design font v2.2.ttf
+File26=heder ir safe ha.png
+File27=hHlogo.png
+File28=ic_fa_adeye.png
+File29=ic_fa_adn.png
+File3=1.txt
+File30=ic_fa_soal.png
+File31=ico_maddahi.png
+File32=info.bal
+File33=info.png
+File34=info2.png
+File35=iransans(fanum)_ultralight.ttf
+File36=iransansmobile.ttf
+File37=iransansmobile_bold.ttf
+File38=iransansmobile_light.ttf
+File39=layout1.bal
+File4=4_6035347052894880031.jpg
+File40=layout1_sher.bal
+File41=logo.png
+File42=LOGO_S.png
+File43=logo-saralah.png
+File44=madah.bal
+File45=main.bal
+File46=main_top.png
+File47=media_pnl.bal
+File48=messenger.png
+File49=new-instagram-icon-2.png
+File5=426007297_236560.jpg
+File50=news_lay.bal
+File51=news_load_lay.bal
+File52=news_view.bal
+File53=outline.png
+File54=page1ghermez.png
+File55=page1-r.png
+File56=page1-y.png
+File57=page1zard.png
+File58=page2-3-l.png
+File59=page2-3-r.png
+File6=active-search.png
+File60=page2-3-x.png
+File61=page2-3-y.png
+File62=page2-r.png
+File63=page2-r-x.png
+File64=page2-r-y.png
+File65=page2-y.png
+File66=page3-katibe.png
+File67=page3-r.png
+File68=page3-y.png
+File69=paly_ico.png
+File7=adad.png
+File70=pause_ico.png
+File71=pic_ciew_sample.bal
+File72=place.jpg
+File73=placeholder.jpg
+File74=play.ttf
+File75=play_pic - hover.png
+File76=play_pic.png
+File77=playicons.ttf
+File78=play-video.png
+File79=rington.png
+File8=anim_layout.bal
+File80=s_inf.bal
+File81=samim.ttf
+File82=saralah.db
+File83=scr_lay.bal
+File84=scrol_lay_news.bal
+File85=search.png
+File86=shabnam.ttf
+File87=share.png
+File88=share_text.png
+File89=share_text_hover.png
+File9=bak-sefid.jpg
+File90=share-hover.png
+File91=sher.png
+File92=sher_show.bal
+File93=sher_view.bal
+File94=showlistbox.bal
+File95=sokhanrai.png
+File96=splash.bal
+File97=splash_background.jpg
+File98=splash_pic.png
+File99=tasvir_neveshte.png
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup100=Default Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=Default Group
+FileGroup104=Default Group
+FileGroup105=Default Group
+FileGroup106=Default Group
+FileGroup107=Default Group
+FileGroup108=Default Group
+FileGroup109=Default Group
+FileGroup11=Default Group
+FileGroup12=Default Group
+FileGroup13=Default Group
+FileGroup14=Default Group
+FileGroup15=Default Group
+FileGroup16=Default Group
+FileGroup17=Default Group
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=Default Group
+FileGroup34=Default Group
+FileGroup35=Default Group
+FileGroup36=Default Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=Default Group
+FileGroup48=Default Group
+FileGroup49=Default Group
+FileGroup5=Default Group
+FileGroup50=Default Group
+FileGroup51=Default Group
+FileGroup52=Default Group
+FileGroup53=Default Group
+FileGroup54=Default Group
+FileGroup55=Default Group
+FileGroup56=Default Group
+FileGroup57=Default Group
+FileGroup58=Default Group
+FileGroup59=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup61=Default Group
+FileGroup62=Default Group
+FileGroup63=Default Group
+FileGroup64=Default Group
+FileGroup65=Default Group
+FileGroup66=Default Group
+FileGroup67=Default Group
+FileGroup68=Default Group
+FileGroup69=Default Group
+FileGroup7=Default Group
+FileGroup70=Default Group
+FileGroup71=Default Group
+FileGroup72=Default Group
+FileGroup73=Default Group
+FileGroup74=Default Group
+FileGroup75=Default Group
+FileGroup76=Default Group
+FileGroup77=Default Group
+FileGroup78=Default Group
+FileGroup79=Default Group
+FileGroup8=Default Group
+FileGroup80=Default Group
+FileGroup81=Default Group
+FileGroup82=Default Group
+FileGroup83=Default Group
+FileGroup84=Default Group
+FileGroup85=Default Group
+FileGroup86=Default Group
+FileGroup87=Default Group
+FileGroup88=Default Group
+FileGroup89=Default Group
+FileGroup9=Default Group
+FileGroup90=Default Group
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=Default Group
+FileGroup96=Default Group
+FileGroup97=Default Group
+FileGroup98=Default Group
+FileGroup99=Default Group
+Group=Default Group
+Library1=core
+Library10=json
+Library11=httputils2
+Library12=animation
+Library13=vlcb4a
+Library14=stringutils
+Library15=b4agridview
+Library2=ultimatelistview
+Library3=ariaglide
+Library4=appcompat
+Library5=sql
+Library6=mscircularimageview
+Library7=notificationbuilder
+Library8=arialib
+Library9=materialcircleprogress
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="28"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~SetApplicationAttribute(android:theme, "@style/MyAppTheme")~\n~SetActivityAttribute(video_view, "android:screenOrientation", "landscape")~\n~CreateResource(values, theme.xml,~\n~<resources>~\n~    <style name="MyAppTheme" parent="@style/Theme.AppCompat.Light">~\n~        <item name="colorPrimary">#b30f0f</item>~\n~        <item name="colorPrimaryDark">#b30f0f</item>~\n~        <item name="colorAccent">#ffffFF</item>~\n~        <item name="windowNoTitle">true</item>~\n~        <item name="windowActionBar">false</item>~\n~		<item name="android:navigationBarColor">#ffff33</item>~\n~		 ~\n~    </style>~\n~</resources>~\n~	  )~\n~        
+Module1=ashar
+Module10=video
+Module11=video_view
+Module2=AudioNotifi
+Module3=infomodule
+Module4=newMain
+Module5=news
+Module6=news_view
+Module7=pic_view
+Module8=sher_view
+Module9=Starter
+NumberOfFiles=109
+NumberOfLibraries=15
+NumberOfModules=11
+Version=9.801
+@EndOfDesignText@
+ #Region  Project Attributes 
+	#ApplicationLabel: ثارالله زنجان
+	#VersionCode: 1
+	#VersionName:
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: portrait
+'	#SupportedOrientations: unspecified
+	#CanInstallToExternalStorage: False
+#Extends: android.support.v7.app.AppCompatActivity
+'#AdditionalRes:..\res
+
+'#AdditionalRes:D:\Android.SDK\extras\android\support\v7\cardview\res
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: True
+#End Region
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+Dim t,t2 As Timer
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+
+	Private animatedbackground As ImageView
+	Private ivBackground As ImageView
+	Private ivcore As ImageView
+	Private ivOutline As ImageView
+	Private Panel1 As Panel
+	Dim a As Animation
+'	Private Hitex_RevealLayout1 As Hitex_RevealLayout
+
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	'Do not forget to load the layout file created with the visual designer. For example:
+	If File.IsDirectory(File.DirRootExternal&"/SaralahCyber","")=False Then
+		Log( File.IsDirectory(File.DirRootExternal,"saralahcyber")=False)
+		File.MakeDir(File.DirRootExternal,"SaralahCyber")
+	End If
+	Activity.LoadLayout("anim_layout")
+	a.InitializeRotateCenter("animcore",0,290,ivOutline)
+
+
+	a.RepeatCount=-1
+	a.Duration=10000
+
+	If a.IsInitialized Then
+		Activity.Invalidate
+		a.Start(ivOutline)
+	End If
+	t.Initialize("t",2000)
+	t.Enabled=True
+
+	animatedbackground.SetLayoutAnimated(5500,100%X-animatedbackground.Width,0,animatedbackground.Width,animatedbackground.Height)
+
+End Sub
+
+
+Sub Activity_Resume
+
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+Sub  t_Tick
+	t.Enabled=False
+	Dim h,w As Int
+	h=Panel1.Height/1'2
+	w=Panel1.Height/1'2
+	ivOutline.Invalidate
+	'Panel1.SetBackgroundImage(LoadBitmap(File.DirAssets,"lo
+
+	Panel1.SetLayoutAnimated(2000,50%X-w/2,99%y-h,w,h)
+	ivOutline.Invalidate
+	ivBackground.SetVisibleAnimated(1500,True)
+	t2.Initialize("t2",2000)
+	t2.Enabled=True
+End Sub
+Sub  t2_Tick
+'	Hitex_RevealLayout1.Show3(50%X,99%Y,3000)
+'	Hitex_RevealLayout1.ClipChildren=True
+	callActivity
+	
+End Sub
+
+Sub callActivity
+	t2.Enabled=False
+	StartActivity(newMain)
+	Activity.Finish
+End Sub
+
+
+Sub Hitex_RevealLayout1_onAnimationEnd
+End Sub
